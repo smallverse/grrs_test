@@ -1,8 +1,7 @@
 [package]
 name = "grrs"
 version = "0.1.0"
-authors = ["zhaijunfeng2012@gmail.com"]
-edition = "2018"
+authors = ["zhaijf"]
 
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"

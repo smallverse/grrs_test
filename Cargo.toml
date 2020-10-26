@@ -1,8 +1,16 @@
 [package]
 name = "grrs"
 version = "0.1.0"
-authors = ["zhaijf"]
+authors = ["zhaijunfeng2012@gmail.com"]
 edition = "2018"
+
+license = "MIT OR Apache-2.0"
+description = "A tool to search files"
+readme = "README.md"
+homepage = "https://github.com/xiaonaoer/grrs"
+repository = "https://github.com/xiaonaoer/grrs"
+keywords = ["cli", "search", "demo"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 

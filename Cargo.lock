@@ -42,7 +42,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "grrs"
+name = "grrs_test"
 version = "0.1.0"
 dependencies = [
  "structopt",

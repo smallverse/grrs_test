@@ -1,7 +1,7 @@
 [package]
-name = "grrs"
+name = "grrs_test"
 version = "0.1.0"
-authors = ["zhaijf"]
+authors = ["zhaijunfeng2012@gmail.com"]
 edition = "2018"
 
 license = "MIT OR Apache-2.0"

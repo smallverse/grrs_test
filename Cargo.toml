@@ -7,8 +7,8 @@ edition = "2018"
 license = "MIT OR Apache-2.0"
 description = "A tool to search files"
 readme = "README.md"
-homepage = "https://github.com/xiaonaoer/grrs"
-repository = "https://github.com/xiaonaoer/grrs"
+homepage = "https://github.com/xiaonaoer/grrs_test"
+repository = "https://github.com/xiaonaoer/grrs_test"
 keywords = ["cli", "search", "demo"]
 categories = ["command-line-utilities"]
 
